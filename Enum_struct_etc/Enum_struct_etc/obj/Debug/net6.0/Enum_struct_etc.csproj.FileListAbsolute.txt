@@ -1,0 +1,15 @@
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\bin\Debug\net6.0\Enum_struct_etc.exe
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\bin\Debug\net6.0\Enum_struct_etc.deps.json
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\bin\Debug\net6.0\Enum_struct_etc.runtimeconfig.json
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\bin\Debug\net6.0\Enum_struct_etc.dll
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\bin\Debug\net6.0\ref\Enum_struct_etc.dll
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\bin\Debug\net6.0\Enum_struct_etc.pdb
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\obj\Debug\net6.0\Enum_struct_etc.csproj.AssemblyReference.cache
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\obj\Debug\net6.0\Enum_struct_etc.GeneratedMSBuildEditorConfig.editorconfig
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\obj\Debug\net6.0\Enum_struct_etc.AssemblyInfoInputs.cache
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\obj\Debug\net6.0\Enum_struct_etc.AssemblyInfo.cs
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\obj\Debug\net6.0\Enum_struct_etc.csproj.CoreCompileInputs.cache
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\obj\Debug\net6.0\Enum_struct_etc.dll
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\obj\Debug\net6.0\ref\Enum_struct_etc.dll
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\obj\Debug\net6.0\Enum_struct_etc.pdb
+X:\2023-2024\C# Basic\Enum_struct_etc\Enum_struct_etc\obj\Debug\net6.0\Enum_struct_etc.genruntimeconfig.cache
